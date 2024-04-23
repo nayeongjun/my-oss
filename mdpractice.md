@@ -6,6 +6,9 @@
 Use ` mark
 Create block
 ```
-*itallics*
+*itallics Use \* mark*
 
-**bold**
+**bold Use \*\* mark**
+
+~~strikethrough Use \~ mark~~
+
