@@ -12,3 +12,6 @@ Create block
 
 ~~strikethrough Use \~ mark~~
 
+1. No1 Item
+2. No2 Item
+
